@@ -1,0 +1,82 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 09-10-2023, 23:17:25
+    Author     : macor
+*/
+
+body {
+ font-family: Arial, sans-serif;
+ margin: 0;
+ padding: 0;
+ background-color: #f9f9f9;
+}
+
+header {
+ background-color: green;
+ color: #fff;
+ text-align: center;
+ padding: 10px 0; }
+
+#descripcion {
+    text-align: center;
+    color: navy;
+    margin: 10px 90px 10px 90px;
+}
+
+#habilidades {
+    text-align: center;
+    color: navy;
+    margin: 10px 90px 10px 90px;
+}
+
+ul {
+ display: block;
+ margin: 0 auto;
+ max-width: 90px;
+}
+a {
+ color: navy;
+}
+a:hover {
+ color: green;
+ font-size: 24px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+}
+
+h2 {
+ text-align: center;
+ color: green; }
+
+
+img {
+ display: block;
+ margin: 0 auto;
+ max-width: 200px;
+ border-radius: 10px;
+}
+
+#perfil {
+ display: block;
+ margin: 0 auto;
+ margin-bottom: 50px;
+ margin-top: 50px;
+ max-width: 800px;
+ border-radius: 10px;
+ box-shadow: 0 10px 60px gray;
+ text-align: center;
+}
+
+footer {
+ background-color: green;
+ color: #fff;
+ text-align: center;
+ padding: 10px 0;
+}
